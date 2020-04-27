@@ -1,6 +1,6 @@
 #### 集成环境:
 
-curl -Ohttps://pkssssss.github.io/dnfserve/lamp;chmod +x lamp;./lamp
+curl -O https://pkssssss.github.io/dnfserve/lamp;chmod +x lamp;./lamp
 
 #### 纯端文件:
 
