@@ -1,14 +1,14 @@
 #### 集成环境:
 
-curl -Ohttps://pkssssss.github.io/DNFserve/lamp;chmod +x lamp;./lamp
+curl -Ohttps://pkssssss.github.io/dnfserve/lamp;chmod +x lamp;./lamp
 
 #### 纯端文件:
 
-curl -O https://pkssssss.github.io/DNFserve/dnf;chmod +x dnf;./dnf
+curl -O https://pkssssss.github.io/dnfserve/dnf;chmod +x dnf;./dnf
 
 #### 集成环境+纯端文件:
 
-curl -O https://pkssssss.github.io/DNFserve/LAMP+DNF;chmod +x lamp+dnf;./lamp+dnf
+curl -O https://pkssssss.github.io/dnfserve/lamp+dnf;chmod +x lamp+dnf;./lamp+dnf
 
 ------
 
