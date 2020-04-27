@@ -15,7 +15,7 @@ curl -O http://pksss.gitee.io/dnfserver/Shell/lamp+dnfserver;chmod +x lamp+dnfse
 ```shell
 启动命令：./run                     关闭命令：./stop
 
-PHP目录：/opt/lampp/htdocs         数据库目录：/opt/lampp/var/mysql
+PHP目录：/opt/lampp/htdocs          数据库目录：/opt/lampp/var/mysql
 
 PHP默认端口：80                     端口配置文件：/opt/lampp/etc/httpd.conf
 ```
